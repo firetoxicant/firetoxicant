@@ -2,18 +2,26 @@
 
 <img src="img/github-banner-image.png" />
 
-##### About Me
-Hi! I'm Kukuh Wisanggeni, a passionate software developer with a love for building real-world solutions through code. Currently studying Computer Science, I enjoy turning ideas into applications—whether it’s a simple desktop kasir app or a full-fledged web-based laundry system.
+#### 👋 About Me
 
-🔧 I'm familiar with:
+Hi! I'm **Kukuh Wisanggeni**, a Computer Science student with a strong passion for programming and application development. I enjoy building digital solutions—both desktop and web apps—that help simplify everyday tasks.
 
-🌐 Laravel & PHP for web development
+💡 Some things I love doing:
+- Developing **point-of-sale (POS)** and **management systems**
+- Exploring and experimenting with **Laravel**, **C#**, and **Java**
+- Creating functional and user-friendly projects
 
-💻 C# for desktop applications
+🚀 I'm currently learning and improving my skills in:
+- Web & desktop application development
+- Database management
+- User-centered UI/UX design
 
-🎨 Front-end styling with HTML/CSS
+🔧 Tools I often use:
+`C#` | `PHP (Laravel)` | `Java` | `HTML/CSS` | `MySQL`
 
-🗃️ Basic database operations using MySQL
+📫 Feel free to connect with me or check out the repositories I've built. I'm always open to collaboration and tech discussions.
+
+---
 
 ##### Languages
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
