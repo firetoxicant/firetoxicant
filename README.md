@@ -1,6 +1,6 @@
 ## Hello World! Welcome to My Github Profile 👋
 
-<img src="img/github-header-image.png" />
+<img src="img/github-banner-image.png" />
 
 ##### About Me
 Hi! I'm Kukuh Wisanggeni, a passionate software developer with a love for building real-world solutions through code. Currently studying Computer Science, I enjoy turning ideas into applications—whether it’s a simple desktop kasir app or a full-fledged web-based laundry system.
