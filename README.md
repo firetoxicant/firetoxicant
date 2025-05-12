@@ -42,8 +42,8 @@ Hi! I'm **Kukuh Wisanggeni**, a Computer Science student with a strong passion f
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
 ##### Social
-![facebook](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kukuh.wsi)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kukuh.wisanggeni.5)
 
 ##### My Github Stats
 ![Kukuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=firetoxicant&show_icons=true&theme=tokyonight&hide=contribs)
