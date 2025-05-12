@@ -1,6 +1,6 @@
 ## Hello World! Welcome to My Github Profile 👋
 
-## KUKUH WISANGGENI
+<img src="img/github-header-image.png" />
 
 ##### Languages
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
